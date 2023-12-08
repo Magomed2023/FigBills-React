@@ -1,0 +1,140 @@
+.billTable{
+    width: 60%;
+    background-color: white;
+    box-shadow: 1px 1px 8px rgb(227, 85, 2);
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+
+    
+}
+
+
+
+.addButton{
+   text-decoration: none;
+   background-color: rgb(69, 204, 154);
+   color: rgb(1, 1, 1);
+   font-weight: 500;
+   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+   border-radius: 0px;
+   padding: 10px;
+}
+
+.regButton{
+    text-decoration: none;
+    background-color: rgb(162, 161, 164);
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+    border-radius: 0px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+ }
+
+.logInButton{
+    text-decoration: none;
+    background-color: rgb(162, 161, 164);
+    color: rgb(2, 2, 2);
+    font-weight: 500;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+    border-radius: 0px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+ }
+
+.billTable table{
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+
+}
+
+.billTable table thead th{
+    background-color: rgb(24, 84, 160);
+    color: white;
+    padding: 10px;
+}
+
+
+.billTable table tbody td{
+    padding: 10px;
+    text-align: center;
+}
+
+.actionButtons button{
+    border: 0;
+    outline: none;
+    background: red;
+    padding: 8px 10px;
+    color: white;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+.actionButtons a{
+    background: rgb(236, 140, 22);
+    padding: 6px 10px;
+    color: white;
+    border-radius: 0px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.positiveAmount {
+    color: green;
+  }
+  
+
+.negativeAmount {
+    color: red;
+  }
+
+
+
+.chart-container {
+    margin-top: 20px;
+  }
+
+.centerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0px;
+}
+
+.dropdownContainer {
+  margin-right: 10px;
+  border-radius: 0px;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination button {
+  padding: 8px 12px; /* Ändere diese Werte nach Bedarf */
+  margin: 5px;
+  font-size: 12px; /* Ändere diese Größe nach Bedarf */
+}
+
+.delete-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.delete-modal p {
+  margin-bottom: 10px;
+}
+
+.delete-modal button {
+  margin-right: 10px;
+}
