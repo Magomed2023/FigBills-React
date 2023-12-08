@@ -1,2 +1,2 @@
-# FigBills-React
+# logBills-React
 Bills App
