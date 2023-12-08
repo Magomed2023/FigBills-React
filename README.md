@@ -28,10 +28,6 @@ logBills App is a comprehensive database solution tailored for the logistics ind
 - Start the development server:
 - `npm start`
 
-## Schema Design
-
-You can see the schema design from [here](https://dbdiagram.io/d/6142dfc5825b5b014604a4f8).
-
 ## Libraries, Frameworks and System
 
 - MongoDB for database management
