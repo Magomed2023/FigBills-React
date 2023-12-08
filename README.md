@@ -4,8 +4,8 @@ logBills App is a comprehensive database solution tailored for the logistics ind
 
 ## Dashboard
 
-![Dashboard Image](<img width="1518" alt="Bildschirmfoto 2023-12-06 um 20 48 59" src="https://github.com/Magomed2023/logBills-React/assets/125398193/4d5843a3-88c7-4ef4-b672-e2750c0ba9fe">
-)
+![Dashboard Image](https://i.postimg.cc/xC3NJkGz/Bildschirmfoto-2023-12-06-um-20-48-59.png)
+
 
 ## Required Applications
 
